@@ -3,8 +3,8 @@
 
 ## Missions
 
-- [W1M1. mtcars 데이터셋 분석](./w1m1.md)
-  
-- [W1M2. SQL 기초 튜토리얼 실습](./w1m2.md)
-  
-- [W1M3. Wikipedia GDP Data ETL Pipeline](./w1m3.md)
+| Mission | Topic |
+|---|---|
+| [W1M1](./w1m1.md) | mtcars 데이터셋 분석 |
+| [W1M2](./w1m2.md) | SQL 기초 튜토리얼 실습 |
+| [W1M3](./w1m3.md) | Wikipedia GDP Data ETL Pipeline |
