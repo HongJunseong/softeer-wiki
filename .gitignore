@@ -13,3 +13,7 @@
 
 # log
 *.txt
+
+# code
+*.py
+*.ipynb
