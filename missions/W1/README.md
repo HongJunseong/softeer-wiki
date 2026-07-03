@@ -9,7 +9,7 @@
 | [W1M2](./w1m2.md) | SQL 기초 튜토리얼 실습 |
 | [W1M3](./w1m3.md) | Wikipedia GDP Data ETL Pipeline |
 
-## Week 1 회고
+## 회고
 ### Keep
 - pandas를 활용해 데이터를 탐색하고 시각화하며 데이터의 특성을 분석하는 과정을 익혔다.
 - SQLite를 이용해 SQL을 직접 실습하고, ETL 과정을 구현하며 데이터 처리 흐름을 이해했다.
