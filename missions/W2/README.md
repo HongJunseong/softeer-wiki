@@ -10,3 +10,5 @@
 | [W2M2](./w2m2.md) | Multiprocessing Process |
 | [W2M3](./w2m3.md) | Multiprocessing Queue |
 | [W2M4](./w2m4.md) | Multiprocessing Queue All-in-One |
+| [W2M5](./w2m5.md) | Sentiment Analysis |
+| [W2M6](./w2m6.md) | Docker Image EC2 배포 |
